@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alonaish95-web/alonaish95-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pacific Haus Media
+### Real Estate Photography & Visual Marketing · Seattle, WA
 
-Here are some ideas to get you started:
+**Photos · Aerial · Video · 3D Tours · Floor Plans · AI Staging**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://pacifichausmedia.com) · [Instagram](https://www.instagram.com/pacifichausmedia) · [Email](mailto:hello@pacifichausmedia.com)
+
+</div>
+
+---
+
+### 👋 Hi, I'm Alona
+
+I photograph homes across **Seattle, the Eastside and Snohomish County**.
+
+I work with **listing agents**, **Airbnb and short-term rental hosts**, **home builders** and **interior designers**.
+
+FAA Part 107 certified drone pilot.
+
+---
+
+### 📸 What's here
+
+**Showcases** · a new shoot added regularly, with photos and a short story of each project
+
+**Website** · the code behind pacifichausmedia.com
+
+---
+
+<div align="center">
+
+**Booking a shoot?** Visit [pacifichausmedia.com](https://pacifichausmedia.com)
+
+</div>
