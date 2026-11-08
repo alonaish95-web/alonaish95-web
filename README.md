@@ -27,14 +27,13 @@ FAA Part 107 certified drone pilot.
 
 ### 🏡 Recent showcases
 
-<table>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/alonaish95-web/showcases/tree/main/2026-11-queen-anne-airbnb"><img width="100%" src="assets/queen-anne.jpg" alt="Queen Anne Airbnb"></a></td><td width="50%" align="center" valign="top"><a href="https://github.com/alonaish95-web/showcases/tree/main/2026-09-junction-retreat-airbnb"><img width="100%" src="assets/junction-retreat.jpg" alt="The Junction Retreat"></a></td></tr>
-<tr><td width="50%" align="center" valign="top"><b>Queen Anne Airbnb</b><br>7 bedrooms · Nov 2026</td><td width="50%" align="center" valign="top"><b>The Junction Retreat</b><br>West Seattle · Sep 2026</td></tr>
-</table>
+<a href="https://github.com/alonaish95-web/showcases/tree/main/2026-09-junction-retreat-airbnb"><img src="assets/junction-retreat.jpg" alt="The Junction Retreat" width="100%"></a>
 
-### ✨ Before & after
+<div align="center">
 
-<a href="https://github.com/alonaish95-web/showcases/tree/main/2026-11-queen-anne-airbnb"><img src="assets/before-after.jpg" alt="Living room before and after editing" width="100%"></a>
+<b>The Junction Retreat</b> · West Seattle Airbnb · Sep 2026
+
+</div>
 
 <div align="center">
 
